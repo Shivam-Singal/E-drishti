@@ -1,5 +1,4 @@
 # E-drishti
-# Quizzle
 
 An app which teaches braille to visually-impaired children in multiple languages.
 
